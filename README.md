@@ -12,8 +12,8 @@ Include a screenshot of your calculator here.
 
 # Technologies Used
 HTML: Structure of the calculator.
-# CSS: Styling and layout.
-# JavaScript: Functionality and operations.
+CSS: Styling and layout.
+JavaScript: Functionality and operations.
 
 # Image
 ![Alt text for the image](https://github.com/San-Sandhiy-a/Simple-Calculator/blob/main/screenshot.png?raw=true)

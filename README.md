@@ -15,3 +15,4 @@ HTML: Structure of the calculator.
 CSS: Styling and layout.
 JavaScript: Functionality and operations.
 # Image
+[!Image https://github.com/San-Sandhiy-a/Simple-Calculator/blob/main/screenshot.png?raw=true]
